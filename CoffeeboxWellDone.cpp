@@ -43,7 +43,7 @@ int main()
 	int choiceService = 0;
 	double byn = 0.00;
 	double proceeds = 0.00;
-	int numberOfGlasses = 7;
+	int numberOfGlasses = 1;
 	
 	while (true){
 		while (true){
